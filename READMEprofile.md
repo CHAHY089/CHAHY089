@@ -1,4 +1,4 @@
-## Hi there 👋 nice to meet you!
+## Hello world 👋 i'm currently working on something cool ... 
 
 <!--
 **CHAHY089/CHAHY089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
